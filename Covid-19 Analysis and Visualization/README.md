@@ -1,7 +1,7 @@
 
 ---
 
-# 🦠 COVID-19 Data Analysis & Visualization using Python & Plotly
+# 🦠 COVID-19 Data Analysis & Visualization using Python & 
 
 ## 📌 Project Overview
 
